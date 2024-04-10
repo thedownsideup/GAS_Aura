@@ -1,0 +1,332 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+/* Begin PBXBuildFile section */
+		4112A5734BB0D1326052EB46 = {isa = PBXBuildFile; fileRef = 437ED9CEDC0CF388D9E80287; }; /* Assets.xcassets */
+		F77D2B418709F3DE66FDE82A = {isa = PBXBuildFile; fileRef = 8B0C4590B03A59DB2D566B6E; }; /* LaunchScreen.storyboardc */
+		A41FA112E3F3C12A97AB9AE5 = {isa = PBXBuildFile; fileRef = 379663C757BBDDA011BD7319; }; /* LaunchScreenIOS.png */
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F519DBC82B7C343B37F88500 = {isa = PBXFileReference; explicitFileType = file.txt; name = "Aura.uproject"; path = "../../Aura.uproject"; sourceTree = SOURCE_ROOT; };
+		6BB943E2C40AE476452D4EE3 = {isa = PBXFileReference; explicitFileType = file.txt; name = "DefaultEditor.ini"; path = "../../Config/DefaultEditor.ini"; sourceTree = SOURCE_ROOT; };
+		4E6FC01DBECF6EAFE3EBE34A = {isa = PBXFileReference; explicitFileType = file.txt; name = "DefaultEngine.ini"; path = "../../Config/DefaultEngine.ini"; sourceTree = SOURCE_ROOT; };
+		5873D72E80F5FC38B15BAE4B = {isa = PBXFileReference; explicitFileType = file.txt; name = "DefaultGame.ini"; path = "../../Config/DefaultGame.ini"; sourceTree = SOURCE_ROOT; };
+		CEDBC2E8B849B360A801E011 = {isa = PBXFileReference; explicitFileType = file.txt; name = "DefaultInput.ini"; path = "../../Config/DefaultInput.ini"; sourceTree = SOURCE_ROOT; };
+		CF746C0FF4BEC24D1E04EB4B = {isa = PBXFileReference; explicitFileType = file.txt; name = "Aura.Target.cs"; path = "../../Source/Aura.Target.cs"; sourceTree = SOURCE_ROOT; };
+		946CA59C3259E72311E76F10 = {isa = PBXFileReference; explicitFileType = wrapper.application; name = "Aura"; path = "Aura"; sourceTree = BUILT_PRODUCTS_DIR; };
+		437ED9CEDC0CF388D9E80287 = {isa = PBXFileReference; explicitFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "/Users/Shared/Epic Games/UE_5.3/Engine/Build/TVOS/Resources/Assets.xcassets"; sourceTree = "<absolute>"; };
+		8B0C4590B03A59DB2D566B6E = {isa = PBXFileReference; explicitFileType = wrapper.storyboardc; name = "LaunchScreen.storyboardc"; path = "/Users/Shared/Epic Games/UE_5.3/Engine/Build/IOS/Resources/Interface/LaunchScreen.storyboardc"; sourceTree = "<absolute>"; };
+		379663C757BBDDA011BD7319 = {isa = PBXFileReference; explicitFileType = image.png; name = "LaunchScreenIOS.png"; path = "/Users/Shared/Epic Games/UE_5.3/Engine/Build/IOS/Resources/Graphics/LaunchScreenIOS.png"; sourceTree = "<absolute>"; };
+		0B951287712CCCB5ABD32E10 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "Aura.xcconfig"; path = "XcconfigsTVOS/Aura.xcconfig"; sourceTree = "<group>"; };
+		2E4EB0A7B5A5B503EF70739C = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "Aura_DebugGame.xcconfig"; path = "XcconfigsTVOS/Aura_DebugGame.xcconfig"; sourceTree = "<group>"; };
+		FF06E3A6EE1D394B750CA299 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "Aura_Development.xcconfig"; path = "XcconfigsTVOS/Aura_Development.xcconfig"; sourceTree = "<group>"; };
+		0589CF85FAA9BE155542A8AF = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "Aura_Shipping.xcconfig"; path = "XcconfigsTVOS/Aura_Shipping.xcconfig"; sourceTree = "<group>"; };
+		D659EDB0225DAC2D7CEEB2D6 = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info-Editor.Template.plist"; path = "../../../../../Shared/Epic Games/UE_5.3/Engine/Intermediate/Build/Mac/Resources/Info-Editor.Template.plist"; sourceTree = "<group>"; };
+		56037C70807062071D308BF2 = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info.Template.plist"; path = "../../Build/Mac/Resources/Info.Template.plist"; sourceTree = "<group>"; };
+		65EF9CAD9A24228BE0F5EB3A = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info.Template.plist"; path = "../../Build/IOS/UBTGenerated/Info.Template.plist"; sourceTree = "<group>"; };
+		3DE7764EF92F8BE7D9200B90 = {isa = PBXFileReference; explicitFileType = text.plist; name = "Sandbox.Server.entitlements"; path = "../../Build/Mac/Resources/Sandbox.Server.entitlements"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E49E19C8CFBB67E5C57A9CE8 = {
+			isa = PBXGroup;
+			children = (
+				CAD50DD4BF14F38B25D4A432 /* Config */,
+				3FBE4E57AC1647D7C131124B /* Source */,
+				F519DBC82B7C343B37F88500 /* Aura.uproject */,
+				0A3004E759CB22EF70043B16 /* Products */,
+				FCB4E472B2B4F68560106275 /* Resources */,
+				8F042DC6D104E411D6762DFF /* Xcconfigs */,
+				86C6F7BC91CF548DB365930F /* Metadata */,
+			);
+			sourceTree = "<group>";
+		};
+		CAD50DD4BF14F38B25D4A432 = {
+			isa = PBXGroup;
+			children = (
+				6BB943E2C40AE476452D4EE3 /* DefaultEditor.ini */,
+				4E6FC01DBECF6EAFE3EBE34A /* DefaultEngine.ini */,
+				5873D72E80F5FC38B15BAE4B /* DefaultGame.ini */,
+				CEDBC2E8B849B360A801E011 /* DefaultInput.ini */,
+			);
+			name = "Config";
+			path = "/Users/mahsa/Work/Aura/Config";
+			sourceTree = "<absolute>";
+		};
+		3FBE4E57AC1647D7C131124B = {
+			isa = PBXGroup;
+			children = (
+				CF746C0FF4BEC24D1E04EB4B /* Aura.Target.cs */,
+			);
+			name = "Source";
+			path = "/Users/mahsa/Work/Aura/Source";
+			sourceTree = "<absolute>";
+		};
+		0A3004E759CB22EF70043B16 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				946CA59C3259E72311E76F10 /* Aura */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FCB4E472B2B4F68560106275 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				437ED9CEDC0CF388D9E80287 /* Assets.xcassets */,
+				8B0C4590B03A59DB2D566B6E /* LaunchScreen.storyboardc */,
+				379663C757BBDDA011BD7319 /* LaunchScreenIOS.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		8F042DC6D104E411D6762DFF /* Xcconfigs */ = {
+			isa = PBXGroup;
+			children = (
+				0B951287712CCCB5ABD32E10 /* Aura.xcconfig */,
+				2E4EB0A7B5A5B503EF70739C /* Aura_DebugGame.xcconfig */,
+				FF06E3A6EE1D394B750CA299 /* Aura_Development.xcconfig */,
+				0589CF85FAA9BE155542A8AF /* Aura_Shipping.xcconfig */,
+			);
+			name = Xcconfigs;
+			sourceTree = "<group>";
+		};
+		86C6F7BC91CF548DB365930F /* Metadata */ = {
+			isa = PBXGroup;
+			children = (
+				D659EDB0225DAC2D7CEEB2D6 /* Info-Editor.Template.plist */,
+				56037C70807062071D308BF2 /* Info.Template.plist */,
+				65EF9CAD9A24228BE0F5EB3A /* Info.Template.plist */,
+				3DE7764EF92F8BE7D9200B90 /* Sandbox.Server.entitlements */,
+			);
+			name = Metadata;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+/* Begin PBXProject section */
+		1DB85B35D49E54F53A7A9FC4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 2000;
+				ORGANIZATIONNAME = "Epic Games, Inc.";
+				TargetAttributes = {
+					56F35D6DC97A9DFB70DF47A2 = {
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = E71BB2EF0ED9DC6E86F2A065 /* Build configuration list for PBXProject "Aura" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en
+			);
+			mainGroup = E49E19C8CFBB67E5C57A9CE8;
+			productRefGroup = 0A3004E759CB22EF70043B16;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				56F35D6DC97A9DFB70DF47A2 /* Aura */,
+				D171E5D78637626D35CF9D70 /* Aura_Build */,
+			);
+		};
+/* End PBXProject section */
+/* Begin Run_App section */
+		56F35D6DC97A9DFB70DF47A2 /* Aura */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 811BD3FAF8205F93DCA58147 /* Build configuration list for PBXNativeTarget "Aura" */;
+			buildPhases = (
+				0CC03FDAD37B0B1AD5D7D0B2 /* Resources */,
+				FC1287A415A1282F2283E657 /* Copy Executable and Staged Data into .app */,
+				D74B56A6F38CCD5AA0E12D6D /* Generate dsym for archive, and strip */,
+			);
+			dependencies = (
+				9847F8399541D622D3825A60 /* Aura_Build */,
+			);
+			name = "Aura";
+			passBuildSettingsInEnvironment = 1;
+			productType = "com.apple.product-type.application";
+			productReference = 946CA59C3259E72311E76F10;
+			productName = "Aura";
+		};
+/* End Run_App section */
+		811BD3FAF8205F93DCA58147 /* Build configuration list for target Aura */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F18B1BC10336B1C7B6072C7D /* DebugGame */,
+				3051152E8EF44CB524021B17 /* Development */,
+				85ED2AF187DB33B072167B3E /* Shipping */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Development";
+		};
+		F18B1BC10336B1C7B6072C7D /* DebugGame */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2E4EB0A7B5A5B503EF70739C /* Aura_DebugGame.xcconfig */;
+			buildSettings = {
+			};
+			name = "DebugGame";
+		};
+		3051152E8EF44CB524021B17 /* Development */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FF06E3A6EE1D394B750CA299 /* Aura_Development.xcconfig */;
+			buildSettings = {
+			};
+			name = "Development";
+		};
+		85ED2AF187DB33B072167B3E /* Shipping */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0589CF85FAA9BE155542A8AF /* Aura_Shipping.xcconfig */;
+			buildSettings = {
+			};
+			name = "Shipping";
+		};
+/* Begin PBXResourcesBuildPhase section */
+		0CC03FDAD37B0B1AD5D7D0B2 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4112A5734BB0D1326052EB46 /* Assets.xcassets in Resources */,
+				F77D2B418709F3DE66FDE82A /* LaunchScreen.storyboardc in Resources */,
+				A41FA112E3F3C12A97AB9AE5 /* LaunchScreenIOS.png in Resources */,
+			);
+		};
+/* End PBXResourcesBuildPhase section */
+/* Begin PBXShellScriptBuildPhase section */
+		FC1287A415A1282F2283E657 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "Copy Executable and Staged Data into .app";
+			inputPaths = (
+			);
+			outputPaths = (
+				"/dev/null"
+			);
+			shellPath = /bin/sh;
+			shellScript = "set -eo pipefail\nSRC_EXE=\"${UE_BINARIES_DIR}/${UE_UBT_BINARY_SUBPATH}\"\nDEST_EXE=\"${CONFIGURATION_BUILD_DIR}/${EXECUTABLE_PATH}\"\nDEST_EXE_DIR=`dirname \"${DEST_EXE}\"`\n\necho Copying executable and any standalone dylibs into ${DEST_EXE_DIR}\nmkdir -p \"${DEST_EXE_DIR}\"\nditto \"${SRC_EXE}\" \"${DEST_EXE}\"\n\n# Skip syncing if desired\nif [[ ${UE_SKIP_STAGEDDATA_SYNC} -eq 1 ]]; then exit 0; fi\n\n# When building engine projects, like UnrealGame, we don't have data to stage unless something has specified UE_OVERRIDE_STAGE_DIR\nif [[ -z ${UE_OVERRIDE_STAGE_DIR} ]]; then \nSTAGED_DIR=\"${UE_PROJECT_DIR}/Saved/StagedBuilds/${UE_TARGET_PLATFORM_NAME}\"\nelse\n  STAGED_DIR=\"${UE_OVERRIDE_STAGE_DIR}\"\nfi\nif [[ -z ${STAGED_DIR} ]]; then exit 0; fi\n# Make sure the staged directory exists and has files in it\nif [[ ! -e \"${STAGED_DIR}\" || ! $(ls -A \"${STAGED_DIR}\") ]]; then \n  echo =========================================================================================\n  echo \"WARNING: To run, you must have a valid staged build directory. The Staged location is:\"\n  echo \"  ${STAGED_DIR}\"\n  echo \"Use the editor's Platforms menu, or run a command like::\"\n  echo \"./RunUAT.sh BuildCookRun -platform=TVOS -project=<project> -build -cook -stage -pak\"\n  echo =========================================================================================\n  exit -0 \nfi\n\necho \"Syncing ${STAGED_DIR}/cookeddata to ${CONFIGURATION_BUILD_DIR}/${CONTENTS_FOLDER_PATH}/cookeddata\"\nrsync -a --delete --exclude=\"/Info.plist\" --exclude=\"/Manifest_*\" --exclude=\"/*.app\" \"${STAGED_DIR}/cookeddata/\" \"${CONFIGURATION_BUILD_DIR}/${CONTENTS_FOLDER_PATH}/cookeddata\"";
+		};
+/* End PBXShellScriptBuildPhase section */
+/* Begin PBXShellScriptBuildPhase section */
+		D74B56A6F38CCD5AA0E12D6D = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "Generate dsym for archive, and strip";
+			inputPaths = (
+				"\"$(CONFIGURATION_BUILD_DIR)/$(EXECUTABLE_PATH)\""
+			);
+			outputPaths = (
+				"\"$(DWARF_DSYM_FOLDER_PATH)/$(DWARF_DSYM_FILE_NAME)\""
+			);
+			shellPath = /bin/sh;
+			shellScript = "set -e\n\n# Run the wrapper dsym generator\n\"${UE_ENGINE_DIR}/Build/BatchFiles/Mac/GenerateUniversalDSYM.sh\" \"${CONFIGURATION_BUILD_DIR}/${EXECUTABLE_PATH}\" \"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}\"\nstrip -no_code_signature_warning -D \"${CONFIGURATION_BUILD_DIR}/${EXECUTABLE_PATH}\"\n\n# Remove any unused architectures from dylibs in the .app (param1) that don't match the executable (param2). Also error if a dylib is missing arches\n\"${UE_ENGINE_DIR}/Build/BatchFiles/Mac/ThinApp.sh\" \"${CONFIGURATION_BUILD_DIR}/${CONTENTS_FOLDER_PATH}\" \"${CONFIGURATION_BUILD_DIR}/${EXECUTABLE_PATH}\"";
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXShellScriptBuildPhase section */
+/* Begin PBXContainerItemProxy section */
+		D61E80354052B0E6AC877082 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1DB85B35D49E54F53A7A9FC4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D171E5D78637626D35CF9D70;
+			remoteInfo = "Aura_Build";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXTargetDependency section */
+		9847F8399541D622D3825A60 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D171E5D78637626D35CF9D70 /* Aura_Build */;
+			targetProxy = D61E80354052B0E6AC877082 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+/* Begin Build section */
+		D171E5D78637626D35CF9D70 /* Aura_Build */ = {
+			isa = PBXLegacyTarget;
+			buildConfigurationList = DB11EF2EDDB8091105F1C7B8 /* Build configuration list for PBXLegacyTarget "Aura_Build" */;
+			buildArgumentsString = "$(ACTION) Aura $(PLATFORM_NAME) $(CONFIGURATION) /Users/mahsa/Work/Aura/Aura.uproject";
+			buildToolPath = "/Users/Shared/Epic Games/UE_5.3/Engine/Build/BatchFiles/Mac/XcodeBuild.sh";
+			buildWorkingDirectory = "/Users/Shared/Epic Games/UE_5.3";
+			buildPhases = (
+			);
+			dependencies = (
+			);
+			name = "Aura_Build";
+			passBuildSettingsInEnvironment = 1;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End Build section */
+		DB11EF2EDDB8091105F1C7B8 /* Build configuration list for target Aura_Build */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E7CAA2F6C8989D4488B8FF08 /* DebugGame */,
+				BFCD6215B497284D1AEB59C3 /* Development */,
+				AE251782718DBFDFA92CF0BC /* Shipping */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Development";
+		};
+		E7CAA2F6C8989D4488B8FF08 /* DebugGame */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = "DebugGame";
+		};
+		BFCD6215B497284D1AEB59C3 /* Development */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = "Development";
+		};
+		AE251782718DBFDFA92CF0BC /* Shipping */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = "Shipping";
+		};
+		E71BB2EF0ED9DC6E86F2A065 /* Build configuration list for target Aura */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4DB351CC4D8D435DF6B99EC3 /* DebugGame */,
+				3C38E8696944B39FCE2C9EDF /* Development */,
+				F6CF077C653928CF6EAF8482 /* Shipping */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Development";
+		};
+		4DB351CC4D8D435DF6B99EC3 /* DebugGame */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos";
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = "DebugGame";
+		};
+		3C38E8696944B39FCE2C9EDF /* Development */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos";
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = "Development";
+		};
+		F6CF077C653928CF6EAF8482 /* Shipping */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos";
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = "Shipping";
+		};
+	};
+	rootObject = 1DB85B35D49E54F53A7A9FC4 /* Project object */;
+}
