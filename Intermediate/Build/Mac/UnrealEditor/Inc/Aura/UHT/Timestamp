@@ -1,3 +1,4 @@
-/Users/mahsa/Work/Aura/Source/Aura/Public/AuraCharacter.h
 /Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraCharacterBase.h
-/Users/mahsa/Work/Aura/Source/Aura/Public/AuraEnemy.h
+/Users/mahsa/Work/Aura/Source/Aura/Public/Player/AuraPlayerController.h
+/Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraEnemy.h
+/Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraCharacter.h

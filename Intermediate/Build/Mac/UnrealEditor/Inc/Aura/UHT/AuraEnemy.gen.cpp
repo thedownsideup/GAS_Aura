@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "Aura/Public/AuraEnemy.h"
+#include "Aura/Public/Character/AuraEnemy.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeAuraEnemy() {}
 // Cross Module References
@@ -42,8 +42,8 @@ void EmptyLinkFunctionForGeneratedCodeAuraEnemy() {}
 		{ "Comment", "/**\n * \n */" },
 #endif
 		{ "HideCategories", "Navigation" },
-		{ "IncludePath", "AuraEnemy.h" },
-		{ "ModuleRelativePath", "Public/AuraEnemy.h" },
+		{ "IncludePath", "Character/AuraEnemy.h" },
+		{ "ModuleRelativePath", "Public/Character/AuraEnemy.h" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AAuraEnemy_Statics::StaticCppClassTypeInfo = {
@@ -79,15 +79,15 @@ void EmptyLinkFunctionForGeneratedCodeAuraEnemy() {}
 	AAuraEnemy::AAuraEnemy() {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AAuraEnemy);
 	AAuraEnemy::~AAuraEnemy() {}
-	struct Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraEnemy_h_Statics
+	struct Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraEnemy_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraEnemy_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AAuraEnemy, AAuraEnemy::StaticClass, TEXT("AAuraEnemy"), &Z_Registration_Info_UClass_AAuraEnemy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAuraEnemy), 4043001135U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraEnemy_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AAuraEnemy, AAuraEnemy::StaticClass, TEXT("AAuraEnemy"), &Z_Registration_Info_UClass_AAuraEnemy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAuraEnemy), 3714560949U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraEnemy_h_929037642(TEXT("/Script/Aura"),
-		Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraEnemy_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraEnemy_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraEnemy_h_1678132161(TEXT("/Script/Aura"),
+		Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraEnemy_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraEnemy_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

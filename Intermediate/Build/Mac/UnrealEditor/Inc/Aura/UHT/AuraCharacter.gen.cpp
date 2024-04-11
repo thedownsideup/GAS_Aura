@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "Aura/Public/AuraCharacter.h"
+#include "Aura/Public/Character/AuraCharacter.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeAuraCharacter() {}
 // Cross Module References
@@ -42,8 +42,8 @@ void EmptyLinkFunctionForGeneratedCodeAuraCharacter() {}
 		{ "Comment", "/**\n * \n */" },
 #endif
 		{ "HideCategories", "Navigation" },
-		{ "IncludePath", "AuraCharacter.h" },
-		{ "ModuleRelativePath", "Public/AuraCharacter.h" },
+		{ "IncludePath", "Character/AuraCharacter.h" },
+		{ "ModuleRelativePath", "Public/Character/AuraCharacter.h" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AAuraCharacter_Statics::StaticCppClassTypeInfo = {
@@ -79,15 +79,15 @@ void EmptyLinkFunctionForGeneratedCodeAuraCharacter() {}
 	AAuraCharacter::AAuraCharacter() {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AAuraCharacter);
 	AAuraCharacter::~AAuraCharacter() {}
-	struct Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraCharacter_h_Statics
+	struct Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraCharacter_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AAuraCharacter, AAuraCharacter::StaticClass, TEXT("AAuraCharacter"), &Z_Registration_Info_UClass_AAuraCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAuraCharacter), 2816590615U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraCharacter_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_AAuraCharacter, AAuraCharacter::StaticClass, TEXT("AAuraCharacter"), &Z_Registration_Info_UClass_AAuraCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAuraCharacter), 1764610690U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraCharacter_h_4054113090(TEXT("/Script/Aura"),
-		Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AuraCharacter_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraCharacter_h_3114623799(TEXT("/Script/Aura"),
+		Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Character_AuraCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
