@@ -2690,6 +2690,10 @@
 			"Type": "DynamicLibrary"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Mac/UnrealEditor-RiderLC.dylib",
+			"Type": "DynamicLibrary"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Mac/UnrealEditor-RiderLink.dylib",
 			"Type": "DynamicLibrary"
 		},

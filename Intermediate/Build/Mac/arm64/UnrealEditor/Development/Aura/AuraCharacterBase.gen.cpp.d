@@ -3938,7 +3938,7 @@
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraCharacterBase.gen.cpp \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/arm64/UnrealEditor/Development/Aura/Definitions.Aura.h \
   Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  /Users/mahsa/Work/Aura/Source/Aura/Public/AuraCharacterBase.h \
+  /Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraCharacterBase.h \
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/Engine/Classes/GameFramework/Character.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
