@@ -3940,13 +3940,16 @@
   Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
   /Users/mahsa/Work/Aura/Source/Aura/Public/Player/AuraPlayerState.h \
   Runtime/Core/Public/CoreMinimal.h \
-  Runtime/Engine/Classes/GameFramework/PlayerState.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/AbilitySystemInterface.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
+  Runtime/CoreUObject/Public/UObject/Interface.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/AbilitySystemInterface.generated.h \
+  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
+  Runtime/Engine/Classes/GameFramework/PlayerState.h \
   Runtime/CoreUObject/Public/Templates/SubclassOf.h \
   Runtime/Engine/Classes/GameFramework/Actor.h \
   Runtime/CoreOnline/Public/Online/CoreOnline.h \
   Runtime/Engine/Classes/GameFramework/OnlineReplStructs.h \
   Runtime/Engine/Classes/GameFramework/Info.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/PlayerState.generated.h \
-  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraPlayerState.generated.h

@@ -3965,5 +3965,8 @@
   Runtime/CoreUObject/Public/UObject/Class.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/RootMotionSource.generated.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/Character.generated.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/AbilitySystemInterface.h \
+  Runtime/CoreUObject/Public/UObject/Interface.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/AbilitySystemInterface.generated.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraCharacterBase.generated.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraCharacter.generated.h
