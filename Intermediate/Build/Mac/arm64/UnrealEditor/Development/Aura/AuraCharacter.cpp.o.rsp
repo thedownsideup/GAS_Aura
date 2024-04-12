@@ -261,6 +261,8 @@
 -I"/Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT"
 -I"/Users/mahsa/Work/Aura/Source"
 -I"/Users/mahsa/Work/Aura/Source/Aura/Public"
+-I"../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT"
+-I"../Plugins/EnhancedInput/Source/EnhancedInput/Public"
 -isystem"ThirdParty/mimalloc/include"
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
