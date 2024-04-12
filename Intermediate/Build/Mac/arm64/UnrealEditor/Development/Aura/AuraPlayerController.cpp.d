@@ -3976,4 +3976,6 @@
   Runtime/Engine/Public/Subsystems/EngineSubsystem.h \
   ../Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputComponent.h \
   Runtime/Engine/Classes/Components/InputComponent.h \
-  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/EnhancedInputComponent.generated.h
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/EnhancedInputComponent.generated.h \
+  /Users/mahsa/Work/Aura/Source/Aura/Public/Interaction/EnemyInterface.h \
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/EnemyInterface.generated.h

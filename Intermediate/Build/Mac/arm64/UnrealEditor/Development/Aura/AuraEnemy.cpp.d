@@ -3965,4 +3965,8 @@
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/RootMotionSource.generated.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/Character.generated.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraCharacterBase.generated.h \
-  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraEnemy.generated.h
+  /Users/mahsa/Work/Aura/Source/Aura/Public/Interaction/EnemyInterface.h \
+  Runtime/CoreUObject/Public/UObject/Interface.h \
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/EnemyInterface.generated.h \
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraEnemy.generated.h \
+  /Users/mahsa/Work/Aura/Source/Aura/Aura.h
