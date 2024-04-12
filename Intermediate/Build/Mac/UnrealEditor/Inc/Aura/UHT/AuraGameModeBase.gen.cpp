@@ -38,9 +38,6 @@ void EmptyLinkFunctionForGeneratedCodeAuraGameModeBase() {}
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_AAuraGameModeBase_Statics::DependentSingletons) < 16);
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AAuraGameModeBase_Statics::Class_MetaDataParams[] = {
-#if !UE_BUILD_SHIPPING
-		{ "Comment", "/**\n * \n */" },
-#endif
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering HLOD WorldPartition DataLayers Transformation" },
 		{ "IncludePath", "Game/AuraGameModeBase.h" },
 		{ "ModuleRelativePath", "Public/Game/AuraGameModeBase.h" },
@@ -85,9 +82,9 @@ void EmptyLinkFunctionForGeneratedCodeAuraGameModeBase() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Game_AuraGameModeBase_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AAuraGameModeBase, AAuraGameModeBase::StaticClass, TEXT("AAuraGameModeBase"), &Z_Registration_Info_UClass_AAuraGameModeBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAuraGameModeBase), 3116762504U) },
+		{ Z_Construct_UClass_AAuraGameModeBase, AAuraGameModeBase::StaticClass, TEXT("AAuraGameModeBase"), &Z_Registration_Info_UClass_AAuraGameModeBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AAuraGameModeBase), 4276424006U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Game_AuraGameModeBase_h_531190491(TEXT("/Script/Aura"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Game_AuraGameModeBase_h_1796656392(TEXT("/Script/Aura"),
 		Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Game_AuraGameModeBase_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_Game_AuraGameModeBase_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
