@@ -5,8 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/BP_GlobeProgressBar.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset"
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset",
+				"/Users/mahsa/Work/Aura/Content/Maps/StartupMap.umap",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/BP_GlobeProgressBar.uasset"
 			]
 		}
 	]
