@@ -1,9 +1,10 @@
+/Users/mahsa/Work/Aura/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h
 /Users/mahsa/Work/Aura/Source/Aura/Public/Game/AuraGameModeBase.h
-/Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraCharacterBase.h
 /Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraCharacter.h
 /Users/mahsa/Work/Aura/Source/Aura/Public/AbilitySystem/AuraAbilitySystemComponent.h
 /Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraEnemy.h
-/Users/mahsa/Work/Aura/Source/Aura/Public/Interaction/EnemyInterface.h
-/Users/mahsa/Work/Aura/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h
 /Users/mahsa/Work/Aura/Source/Aura/Public/Player/AuraPlayerController.h
+/Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraCharacterBase.h
 /Users/mahsa/Work/Aura/Source/Aura/Public/Player/AuraPlayerState.h
+/Users/mahsa/Work/Aura/Source/Aura/Public/Interaction/EnemyInterface.h
+/Users/mahsa/Work/Aura/Source/Aura/Public/Actor/AuraEffectActor.h
