@@ -11,6 +11,9 @@
 				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset",
 				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/HUD/BP_AuraHUD.uasset",
 				"/Users/mahsa/Work/Aura/Content/Blueprints/Game/BP_AuraGameMode.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgerController.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgetController.uasset",
 				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/BP_GlobeProgressBar.uasset"
 			]
 		}
