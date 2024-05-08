@@ -3941,6 +3941,29 @@
   /Users/mahsa/Work/Aura/Source/Aura/Public/Actor/AuraEffectActor.h \
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/Engine/Classes/GameFramework/Actor.h \
-  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraEffectActor.generated.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/GameplayEffectTypes.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/ActiveGameplayEffectHandle.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/ActiveGameplayEffectHandle.generated.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
-  Runtime/CoreUObject/Public/UObject/ScriptMacros.h
+  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/GameplayEffectAttributeCaptureDefinition.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/AttributeSet.h \
+  Runtime/CoreUObject/Public/Templates/SubclassOf.h \
+  Runtime/CoreUObject/Public/UObject/UnrealType.h \
+  Runtime/Engine/Classes/Engine/DataTable.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/AttributeSet.generated.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/GameplayEffectAttributeCaptureDefinition.generated.h \
+  Runtime/CoreUObject/Public/UObject/Object.h \
+  Runtime/CoreUObject/Public/UObject/Class.h \
+  Runtime/Engine/Classes/Engine/NetSerialization.h \
+  Runtime/GameplayTags/Classes/GameplayTagContainer.h \
+  Runtime/Core/Public/Stats/Stats.h \
+  Runtime/Core/Public/Misc/ComparisonUtility.h \
+  Runtime/Core/Public/Containers/StringFwd.h \
+  Runtime/Core/Public/Containers/StringView.h \
+  Runtime/Core/Public/HAL/Platform.h \
+  Runtime/Core/Public/UObject/NameTypes.h \
+  ../Intermediate/Build/Mac/UnrealEditor/Inc/GameplayTags/UHT/GameplayTagContainer.generated.h \
+  Runtime/PhysicsCore/Public/PhysicalMaterials/PhysicalMaterial.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/GameplayEffectTypes.generated.h \
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraEffectActor.generated.h

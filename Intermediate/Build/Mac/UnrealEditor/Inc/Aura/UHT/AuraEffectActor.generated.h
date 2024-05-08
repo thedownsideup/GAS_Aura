@@ -16,16 +16,18 @@ class UGameplayEffect;
 #endif
 #define AURA_AuraEffectActor_generated_h
 
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_SPARSE_DATA
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_SPARSE_DATA
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execonEndOverlap); \
+	DECLARE_FUNCTION(execOnOverlap); \
 	DECLARE_FUNCTION(execApplyEffectToTarget);
 
 
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_ACCESSORS
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_ACCESSORS
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAuraEffectActor(); \
 	friend struct Z_Construct_UClass_AAuraEffectActor_Statics; \
@@ -34,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(AAuraEffectActor)
 
 
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AAuraEffectActor(AAuraEffectActor&&); \
@@ -46,17 +48,17 @@ public: \
 	NO_API virtual ~AAuraEffectActor();
 
 
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_11_PROLOG
-#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_GENERATED_BODY \
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_27_PROLOG
+#define FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_SPARSE_DATA \
-	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_ACCESSORS \
-	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_INCLASS_NO_PURE_DECLS \
-	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_14_ENHANCED_CONSTRUCTORS \
+	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_SPARSE_DATA \
+	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_ACCESSORS \
+	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_INCLASS_NO_PURE_DECLS \
+	FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h_30_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,5 +68,22 @@ template<> AURA_API UClass* StaticClass<class AAuraEffectActor>();
 #undef CURRENT_FILE_ID
 #define CURRENT_FILE_ID FID_mahsa_Work_Aura_Source_Aura_Public_Actor_AuraEffectActor_h
 
+
+#define FOREACH_ENUM_EEFFECTAPPLICATIONPOLICY(op) \
+	op(EEffectApplicationPolicy::ApplyOnOverlap) \
+	op(EEffectApplicationPolicy::ApplyOnEndOverlap) \
+	op(EEffectApplicationPolicy::DoNotApply) 
+
+enum class EEffectApplicationPolicy;
+template<> struct TIsUEnumClass<EEffectApplicationPolicy> { enum { Value = true }; };
+template<> AURA_API UEnum* StaticEnum<EEffectApplicationPolicy>();
+
+#define FOREACH_ENUM_EEFFECTREMOVALPOLICY(op) \
+	op(EEffectRemovalPolicy::RemoveOnEndOverlap) \
+	op(EEffectRemovalPolicy::DoNotApply) 
+
+enum class EEffectRemovalPolicy;
+template<> struct TIsUEnumClass<EEffectRemovalPolicy> { enum { Value = true }; };
+template<> AURA_API UEnum* StaticEnum<EEffectRemovalPolicy>();
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
