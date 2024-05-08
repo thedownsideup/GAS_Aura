@@ -4074,10 +4074,23 @@
   Runtime/Engine/Public/Engine/OverlapInfo.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/CharacterMovementComponentAsync.generated.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/CharacterMovementComponent.generated.h \
+  /Users/mahsa/Work/Aura/Source/Aura/Public/Player/AuraPlayerController.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/InputActionValue.h \
+  Runtime/InputCore/Classes/InputCoreTypes.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/InputActionValue.generated.h \
+  Runtime/Engine/Classes/GameFramework/PlayerController.h \
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraPlayerController.generated.h \
   /Users/mahsa/Work/Aura/Source/Aura/Public/Player/AuraPlayerState.h \
   Runtime/Engine/Classes/GameFramework/PlayerState.h \
   Runtime/CoreOnline/Public/Online/CoreOnline.h \
   Runtime/Engine/Classes/GameFramework/OnlineReplStructs.h \
   Runtime/Engine/Classes/GameFramework/Info.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/PlayerState.generated.h \
-  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraPlayerState.generated.h
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraPlayerState.generated.h \
+  /Users/mahsa/Work/Aura/Source/Aura/Public/UI/HUD/AuraHUD.h \
+  Runtime/Engine/Classes/GameFramework/HUD.h \
+  Runtime/Engine/Classes/GameFramework/HUDHitBox.h \
+  Runtime/Engine/Classes/GameFramework/DebugTextInfo.h \
+  ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/DebugTextInfo.generated.h \
+  ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/HUD.generated.h \
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraHUD.generated.h
