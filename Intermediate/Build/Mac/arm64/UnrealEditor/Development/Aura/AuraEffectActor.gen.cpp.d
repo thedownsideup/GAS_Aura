@@ -3943,5 +3943,4 @@
   Runtime/Engine/Classes/GameFramework/Actor.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraEffectActor.generated.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
-  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  ../Shaders/Shared/../../Source/Runtime/Engine/Classes/Engine/HitResult.h
+  Runtime/CoreUObject/Public/UObject/ScriptMacros.h
