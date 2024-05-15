@@ -10,7 +10,11 @@
 				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset",
 				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset",
 				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset"
+				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgetController.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/Overlay/SubWidget/WBP_EffectMessage.uasset"
 			]
 		}
 	]
