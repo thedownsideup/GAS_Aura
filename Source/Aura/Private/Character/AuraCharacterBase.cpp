@@ -1,6 +1,8 @@
 
 #include "Character/AuraCharacterBase.h"
 
+#include "AbilitySystemComponent.h"
+
 AAuraCharacterBase::AAuraCharacterBase()
 {
  	PrimaryActorTick.bCanEverTick = false;
@@ -23,5 +25,15 @@ void AAuraCharacterBase::BeginPlay()
 
 void AAuraCharacterBase::InitAbilityActorInfo()
 {
+}
+
+void AAuraCharacterBase::InitPrimaryAttributes() const
+{
+	UAbilitySystemComponent* ASC = GetAbilitySystemComponent();
+	check(IsValid(ASC));
+	check(DefaultPrimaryAttributes);
+	const FGameplayEffectContextHandle ContextHandle = ASC->MakeEffectContext();
+	const FGameplayEffectSpecHandle SpecHandle = ASC->MakeOutgoingSpec(DefaultPrimaryAttributes, 1, ContextHandle);
+	ASC->ApplyGameplayEffectSpecToTarget(*SpecHandle.Data.Get(), ASC);
 }
 

@@ -19,7 +19,11 @@
 				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset",
 				"/Users/mahsa/Work/Aura/Content/Assets/UI/Globes/MI_GhostHealthGlobe.uasset",
 				"/Users/mahsa/Work/Aura/Content/Assets/UI/Globes/MI_GhostManaGlobe.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset"
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/Player/BP_AuraPlayerState.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/Data/DT_InitialPrimaryValues.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset"
 			]
 		}
 	]
