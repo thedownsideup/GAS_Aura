@@ -23,7 +23,9 @@
 				"/Users/mahsa/Work/Aura/Content/Blueprints/Player/BP_AuraPlayerState.uasset",
 				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/Data/DT_InitialPrimaryValues.uasset",
 				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset"
+				"/Users/mahsa/Work/Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttributes.uasset"
 			]
 		}
 	]
