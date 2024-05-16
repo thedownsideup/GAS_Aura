@@ -5,28 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayTags/DT_PrimaryAttributes.uasset",
-				"/Users/mahsa/Work/Aura/Content/Maps/StartupMap.umap",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/WidgetController/BP_OverlayWidgetController.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/Overlay/SubWidget/WBP_EffectMessage.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset",
-				"/Users/mahsa/Work/Aura/Content/Assets/UI/Globes/MI_GhostHealthGlobe.uasset",
-				"/Users/mahsa/Work/Aura/Content/Assets/UI/Globes/MI_GhostManaGlobe.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/Player/BP_AuraPlayerState.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/Data/DT_InitialPrimaryValues.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttributes.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraVitalAttributes.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset"
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/AttributeMenu/WBP_FramedValue.uasset",
+				"/Users/mahsa/Work/Aura/Content/Assets/UI/Globes/MI_FlowingUIBG.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/AttributeMenu/WBP_TextValueRow.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/AttributeMenu/WBP_TextValueButtonRow.uasset"
 			]
 		}
 	]
