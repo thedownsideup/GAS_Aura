@@ -4037,4 +4037,13 @@
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraAbilitySystemComponent.generated.h \
   /Users/mahsa/Work/Aura/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraAttributeSet.generated.h \
-  Runtime/Net/Core/Public/Net/Core/PushModel/PushModelMacros.h
+  Runtime/Net/Core/Public/Net/Core/PushModel/PushModelMacros.h \
+  Runtime/Engine/Public/Net/UnrealNetwork.h \
+  Runtime/Engine/Public/EngineLogs.h \
+  Runtime/Engine/Classes/Engine/EngineBaseTypes.h \
+  Runtime/Net/Core/Public/Net/Core/Connection/NetResult.h \
+  Runtime/Net/Core/Public/Net/Core/PropertyConditions/PropertyConditions.h \
+  Runtime/Core/Public/Containers/Map.h \
+  Runtime/Core/Public/Delegates/IDelegateInstance.h \
+  Runtime/Core/Public/Templates/SharedPointer.h \
+  Runtime/Engine/Public/Net/ReplayResult.h
