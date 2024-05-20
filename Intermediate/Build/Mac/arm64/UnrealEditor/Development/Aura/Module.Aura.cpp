@@ -11,6 +11,7 @@
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/Game/AuraGameModeBase.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/Interaction/CombatInterface.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/Interaction/EnemyInterface.cpp"
+#include "/Users/mahsa/Work/Aura/Source/Aura/Private/Player/AuraPlayerController.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/Player/AuraPlayerState.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/UI/HUD/AuraHUD.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/UI/Widget/AuraUserWidget.cpp"

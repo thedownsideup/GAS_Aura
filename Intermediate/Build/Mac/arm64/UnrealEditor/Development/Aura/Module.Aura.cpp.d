@@ -4150,6 +4150,37 @@
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraGameModeBase.generated.h \
   /Users/mahsa/Work/Aura/Source/Aura/Private/Interaction/CombatInterface.cpp \
   /Users/mahsa/Work/Aura/Source/Aura/Private/Interaction/EnemyInterface.cpp \
+  /Users/mahsa/Work/Aura/Source/Aura/Private/Player/AuraPlayerController.cpp \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputSubsystems.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputSubsystemInterface.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedPlayerInput.h \
+  Runtime/Engine/Classes/GameFramework/PlayerInput.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/InputAction.h \
+  Runtime/Engine/Classes/Engine/DataAsset.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/InputModifiers.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/InputModifiers.generated.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/InputTriggers.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/InputTriggers.generated.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/InputAction.generated.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/InputMappingQuery.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/InputMappingQuery.generated.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/EnhancedPlayerInput.generated.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedActionKeyMapping.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/EnhancedActionKeyMapping.generated.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/PlayerMappableKeySlot.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/PlayerMappableKeySlot.generated.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/EnhancedInputSubsystemInterface.generated.h \
+  Runtime/Engine/Public/Subsystems/LocalPlayerSubsystem.h \
+  Runtime/Engine/Public/Subsystems/WorldSubsystem.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/EnhancedInputSubsystems.generated.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputWorldProcessor.h \
+  Runtime/Slate/Public/Framework/Application/IInputProcessor.h \
+  Runtime/ApplicationCore/Public/GenericPlatform/ICursor.h \
+  Runtime/Core/Public/Math/Vector2D.h \
+  Runtime/Engine/Public/Subsystems/EngineSubsystem.h \
+  ../Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputComponent.h \
+  Runtime/Engine/Classes/Components/InputComponent.h \
+  ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/EnhancedInputComponent.generated.h \
   /Users/mahsa/Work/Aura/Source/Aura/Private/Player/AuraPlayerState.cpp \
   /Users/mahsa/Work/Aura/Source/Aura/Private/UI/HUD/AuraHUD.cpp \
   /Users/mahsa/Work/Aura/Source/Aura/Public/UI/Widget/AuraUserWidget.h \
@@ -4433,7 +4464,7 @@
   Runtime/CoreUObject/Public/Serialization/TestUndeclaredScriptStructObjectReferences.h \
   Runtime/Core/Public/Math/UnitConversion.h \
   Runtime/Core/Public/Math/UnitConversion.inl \
-  Runtime/Core/Public/Math/Vector.h Runtime/Core/Public/Math/Vector2D.h \
+  Runtime/Core/Public/Math/Vector.h \
   Runtime/Core/Public/Math/TwoVectors.h Runtime/Core/Public/Math/Plane.h \
   Runtime/Core/Public/Math/Rotator.h Runtime/Core/Public/Math/Quat.h \
   Runtime/Core/Public/Math/IntPoint.h \
