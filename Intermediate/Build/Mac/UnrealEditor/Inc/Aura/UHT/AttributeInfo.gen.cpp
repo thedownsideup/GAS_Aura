@@ -151,9 +151,6 @@ template<> AURA_API UScriptStruct* StaticStruct<FAuraAttributeInfo>()
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UAttributeInfo_Statics::DependentSingletons) < 16);
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UAttributeInfo_Statics::Class_MetaDataParams[] = {
-#if !UE_BUILD_SHIPPING
-		{ "Comment", "/**\n * \n */" },
-#endif
 		{ "IncludePath", "AbilitySystem/Data/AttributeInfo.h" },
 		{ "ModuleRelativePath", "Public/AbilitySystem/Data/AttributeInfo.h" },
 	};
@@ -213,9 +210,9 @@ template<> AURA_API UScriptStruct* StaticStruct<FAuraAttributeInfo>()
 		{ FAuraAttributeInfo::StaticStruct, Z_Construct_UScriptStruct_FAuraAttributeInfo_Statics::NewStructOps, TEXT("AuraAttributeInfo"), &Z_Registration_Info_UScriptStruct_AuraAttributeInfo, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FAuraAttributeInfo), 2369328327U) },
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AbilitySystem_Data_AttributeInfo_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UAttributeInfo, UAttributeInfo::StaticClass, TEXT("UAttributeInfo"), &Z_Registration_Info_UClass_UAttributeInfo, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAttributeInfo), 759221204U) },
+		{ Z_Construct_UClass_UAttributeInfo, UAttributeInfo::StaticClass, TEXT("UAttributeInfo"), &Z_Registration_Info_UClass_UAttributeInfo, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAttributeInfo), 2805647601U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AbilitySystem_Data_AttributeInfo_h_1719658773(TEXT("/Script/Aura"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AbilitySystem_Data_AttributeInfo_h_4177517418(TEXT("/Script/Aura"),
 		Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AbilitySystem_Data_AttributeInfo_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AbilitySystem_Data_AttributeInfo_h_Statics::ClassInfo),
 		Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AbilitySystem_Data_AttributeInfo_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_mahsa_Work_Aura_Source_Aura_Public_AbilitySystem_Data_AttributeInfo_h_Statics::ScriptStructInfo),
 		nullptr, 0);

@@ -5,9 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/HUD/BP_AuraHUD.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/WidgetController/BP_AttributeMenuWidgetController.uasset",
-				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset"
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/AttributeMenu/WBP_TextValueButtonRow.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/AttributeMenu/WBP_TextValueRow.uasset",
+				"/Users/mahsa/Work/Aura/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset",
+				"/Users/mahsa/Work/Aura/Content/Maps/StartupMap.umap"
 			]
 		}
 	]
