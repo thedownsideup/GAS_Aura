@@ -2,7 +2,7 @@
 #include "/Users/mahsa/Work/Aura/Source/Aura/Aura.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/AuraAbilitySystemComponent.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/AuraAbilitySystemLibrary.cpp"
-#include "/Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp"
+#include "/Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/Data/AttributeInfo.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/ModMagCalc/MMC_MaxHealth.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/ModMagCalc/MMC_MaxMana.cpp"
 #include "/Users/mahsa/Work/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp"

@@ -4115,37 +4115,11 @@
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/UObject/../../../ApplicationCore/Public/GenericPlatform/ICursor.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/UObject/../../../ApplicationCore/Public/GenericPlatform/IInputInterface.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraWidgetController.generated.h \
-  /Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp \
-  /Users/mahsa/Work/Aura/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h \
-  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraAttributeSet.generated.h \
-  Runtime/Net/Core/Public/Net/Core/PushModel/PushModelMacros.h \
-  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/AbilitySystemBlueprintLibrary.h \
-  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/Abilities/GameplayAbilityTargetDataFilter.h \
-  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/GameplayAbilityTargetDataFilter.generated.h \
-  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/AbilitySystemBlueprintLibrary.generated.h \
-  Runtime/Engine/Classes/GameFramework/Character.h \
-  Runtime/CoreUObject/Public/UObject/UObjectGlobals.h \
-  Runtime/Engine/Classes/GameFramework/Pawn.h \
-  Runtime/Engine/Classes/GameFramework/CharacterMovementReplication.h \
-  Runtime/Core/Public/Serialization/BitWriter.h \
-  Runtime/Core/Public/Containers/BitArray.h \
-  Runtime/Experimental/Iris/Core/Public/Iris/Serialization/IrisObjectReferencePackageMap.h \
-  ../Intermediate/Build/Mac/UnrealEditor/Inc/IrisCore/UHT/IrisObjectReferencePackageMap.generated.h \
-  ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/CharacterMovementReplication.generated.h \
-  Runtime/Engine/Classes/Animation/AnimationAsset.h \
-  Runtime/Engine/Classes/GameFramework/RootMotionSource.h \
-  Runtime/Core/Public/HAL/IConsoleManager.h \
-  ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/RootMotionSource.generated.h \
-  ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/Character.generated.h \
-  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/GameplayEffectExtension.h \
-  Runtime/Engine/Public/Net/UnrealNetwork.h \
-  Runtime/Engine/Public/EngineLogs.h \
-  Runtime/Engine/Classes/Engine/EngineBaseTypes.h \
-  Runtime/Net/Core/Public/Net/Core/Connection/NetResult.h \
-  Runtime/Net/Core/Public/Net/Core/PropertyConditions/PropertyConditions.h \
-  Runtime/Core/Public/Delegates/IDelegateInstance.h \
-  Runtime/Core/Public/Templates/SharedPointer.h \
-  Runtime/Engine/Public/Net/ReplayResult.h \
+  /Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/Data/AttributeInfo.cpp \
+  /Users/mahsa/Work/Aura/Source/Aura/Public/AbilitySystem/Data/AttributeInfo.h \
+  Runtime/Engine/Classes/Engine/DataAsset.h \
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AttributeInfo.generated.h \
+  Runtime/Core/Public/Misc/OutputDevice.h \
   /Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/ModMagCalc/MMC_MaxHealth.cpp \
   /Users/mahsa/Work/Aura/Source/Aura/Public/AbilitySystem/ModMagCalc/MMC_MaxHealth.h \
   ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/GameplayModMagnitudeCalculation.h \
@@ -4153,6 +4127,9 @@
   ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/GameplayEffectCalculation.generated.h \
   ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/GameplayModMagnitudeCalculation.generated.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/MMC_MaxHealth.generated.h \
+  /Users/mahsa/Work/Aura/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h \
+  /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraAttributeSet.generated.h \
+  Runtime/Net/Core/Public/Net/Core/PushModel/PushModelMacros.h \
   /Users/mahsa/Work/Aura/Source/Aura/Public/Interaction/CombatInterface.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/CombatInterface.generated.h \
   /Users/mahsa/Work/Aura/Source/Aura/Private/AbilitySystem/ModMagCalc/MMC_MaxMana.cpp \
@@ -4161,6 +4138,10 @@
   /Users/mahsa/Work/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp \
   /Users/mahsa/Work/Aura/Source/Aura/Public/Actor/AuraEffectActor.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraEffectActor.generated.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/AbilitySystemBlueprintLibrary.h \
+  ../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/Abilities/GameplayAbilityTargetDataFilter.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/GameplayAbilityTargetDataFilter.generated.h \
+  ../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT/AbilitySystemBlueprintLibrary.generated.h \
   /Users/mahsa/Work/Aura/Source/Aura/Private/AuraAssetManager.cpp \
   /Users/mahsa/Work/Aura/Source/Aura/Public/AuraAssetManager.h \
   Runtime/Engine/Classes/Engine/AssetManager.h \
@@ -4180,6 +4161,7 @@
   Runtime/CoreUObject/Public/UObject/GCObject.h \
   Runtime/AssetRegistry/Public/AssetRegistry/AssetRegistryModule.h \
   Runtime/AssetRegistry/Public/AssetRegistry/IAssetRegistry.h \
+  Runtime/Core/Public/Containers/BitArray.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/AssetRegistry/UHT/IAssetRegistry.generated.h \
   Runtime/Core/Public/GenericPlatform/GenericPlatformChunkInstall.h \
   Runtime/Core/Public/HAL/PlatformCrt.h \
@@ -4193,9 +4175,23 @@
   /Users/mahsa/Work/Aura/Source/Aura/Private/Character/AuraCharacter.cpp \
   /Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraCharacter.h \
   /Users/mahsa/Work/Aura/Source/Aura/Public/Character/AuraCharacterBase.h \
+  Runtime/Engine/Classes/GameFramework/Character.h \
+  Runtime/CoreUObject/Public/UObject/UObjectGlobals.h \
+  Runtime/Engine/Classes/GameFramework/Pawn.h \
+  Runtime/Engine/Classes/GameFramework/CharacterMovementReplication.h \
+  Runtime/Core/Public/Serialization/BitWriter.h \
+  Runtime/Experimental/Iris/Core/Public/Iris/Serialization/IrisObjectReferencePackageMap.h \
+  ../Intermediate/Build/Mac/UnrealEditor/Inc/IrisCore/UHT/IrisObjectReferencePackageMap.generated.h \
+  ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/CharacterMovementReplication.generated.h \
+  Runtime/Engine/Classes/Animation/AnimationAsset.h \
+  Runtime/Engine/Classes/GameFramework/RootMotionSource.h \
+  Runtime/Core/Public/HAL/IConsoleManager.h \
+  ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/RootMotionSource.generated.h \
+  ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/Character.generated.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraCharacterBase.generated.h \
   /Users/mahsa/Work/Aura/Intermediate/Build/Mac/UnrealEditor/Inc/Aura/UHT/AuraCharacter.generated.h \
   Runtime/Engine/Classes/GameFramework/CharacterMovementComponent.h \
+  Runtime/Engine/Classes/Engine/EngineBaseTypes.h \
   Runtime/Engine/Public/WorldCollision.h \
   Runtime/Engine/Classes/AI/Navigation/NavigationTypes.h \
   Runtime/Engine/Classes/Animation/AnimMontage.h \
@@ -4248,7 +4244,6 @@
   ../Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedPlayerInput.h \
   Runtime/Engine/Classes/GameFramework/PlayerInput.h \
   ../Plugins/EnhancedInput/Source/EnhancedInput/Public/InputAction.h \
-  Runtime/Engine/Classes/Engine/DataAsset.h \
   ../Plugins/EnhancedInput/Source/EnhancedInput/Public/InputModifiers.h \
   ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/InputModifiers.generated.h \
   ../Plugins/EnhancedInput/Source/EnhancedInput/Public/InputTriggers.h \
@@ -4273,6 +4268,13 @@
   Runtime/Engine/Classes/Components/InputComponent.h \
   ../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT/EnhancedInputComponent.generated.h \
   /Users/mahsa/Work/Aura/Source/Aura/Private/Player/AuraPlayerState.cpp \
+  Runtime/Engine/Public/Net/UnrealNetwork.h \
+  Runtime/Engine/Public/EngineLogs.h \
+  Runtime/Net/Core/Public/Net/Core/Connection/NetResult.h \
+  Runtime/Net/Core/Public/Net/Core/PropertyConditions/PropertyConditions.h \
+  Runtime/Core/Public/Delegates/IDelegateInstance.h \
+  Runtime/Core/Public/Templates/SharedPointer.h \
+  Runtime/Engine/Public/Net/ReplayResult.h \
   /Users/mahsa/Work/Aura/Source/Aura/Private/UI/HUD/AuraHUD.cpp \
   /Users/mahsa/Work/Aura/Source/Aura/Public/UI/Widget/AuraUserWidget.h \
   Runtime/UMG/Public/Blueprint/UserWidget.h \
