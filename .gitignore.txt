@@ -41,10 +41,6 @@
 *.VC.db
 *.VC.opendb
 
-# Precompiled Assets
-SourceArt/**/*.png
-SourceArt/**/*.tga
-
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
@@ -72,3 +68,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+.idea
+Plugins/Developer
+Builds
+Config/steamvr_ue_editor_app.json
+Config/SteamVRBindings
+Platforms/HoloLens/Config/HoloLensEngine.ini
+.vsconfig
